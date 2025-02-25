@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.10)
+project(EmployeeManagementSystem)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(include)
+
+add_executable(EmployeeManagementSystem
+    src/main.cpp
+    src/Emp.cpp
+    src/Company.cpp
+    src/User.cpp
+    src/utils.cpp
+)

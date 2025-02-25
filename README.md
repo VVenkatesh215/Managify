@@ -29,7 +29,7 @@ Managify is a comprehensive C++ application designed to streamline the managemen
 
 ```
 EmployeeManagementSystem/
-├── data/ (all CSV files are stored here)
+├── data/ 
 │   ├── admin_credentials.csv
 │   ├── employee_credentials.csv
 │   ├── employee.csv
@@ -117,41 +117,3 @@ EmployeeManagementSystem/
   - Source files for the project (`main.cpp`, `Emp.cpp`, `Company.cpp`, `User.cpp`, `utils.cpp`).
 
 ---
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes.
-4. Push your changes to your fork.
-5. Submit a pull request.
-
----
-
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
-
-- This project was developed as part of a learning exercise to demonstrate C++ programming skills and file handling.
-- Special thanks to the open-source community for providing valuable resources and tools.
-
----
-
-## Contact
-
-For any questions or feedback, feel free to reach out:
-
-- **Name**: Venkatesh V
-- **Email**: your-email@example.com
-- **GitHub**: [VVenkatesh215](https://github.com/VVenkatesh215)
-
----
-
-Enjoy using **Managify**! Let me know if you have any questions or need further assistance. 😊# Managify
-The Employee Management System (Managify) is a comprehensive C++ application designed to streamline the management of employee records, leaves, and payroll within an organization. This system provides a user-friendly interface for both administrators and employees, enabling efficient handling of employee data, leave requests, and report generation.
